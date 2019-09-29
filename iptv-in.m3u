@@ -1535,7 +1535,9 @@ http://iptv-line.com:6969/live/indo24.live/QmX3vV6JNy/887.m3u8
 http://iptv-line.com:6969/live/indo24.live/QmX3vV6JNy/5640.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UomUSRn.jpg" group-title="News",Sun tv HD
 http://iptv-line.com:6969/live/indo24.live/QmX3vV6JNy/5643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UomUSRn.jpg" group-title="News",VIP HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UomUSRn.jpg" group-title="News",VIP 
+
+
 http://iptv-line.com:6969/live/indo24.live/QmX3vV6JNy/5699.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UomUSRn.jpg" group-title="News",VIP Star Movies select HD
 http://iptv-line.com:6969/live/indo24.live/QmX3vV6JNy/5698.m3u8
